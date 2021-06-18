@@ -23,19 +23,6 @@ void setup() {
   pinMode(red, OUTPUT); digitalWrite(red, HIGH);
   pinMode(green, OUTPUT); digitalWrite(green, HIGH);
   pinMode(blue, OUTPUT); digitalWrite(blue, HIGH);
-
-//  digitalWrite(red, LOW);
-//  delay(1000);
-//  digitalWrite(red, HIGH);
-//  delay(1000);
-//  digitalWrite(green, LOW);
-//  delay(1000);
-//  digitalWrite(green, HIGH);
-//  delay(1000);
-//  digitalWrite(blue, LOW);
-//  delay(1000);
-//  digitalWrite(blue, HIGH);
-
 }
 
 void loop() {
